@@ -1,0 +1,47 @@
+{
+  "releases": [
+    {
+      "product": { "id": "0103", "name": "냉장 척아이롤 EXCEL 86K PR" },
+      "client": { "id": "", "name": "" },
+      "price": 13000,
+      "quantity": 85.46,
+      "box": 21
+    },
+    {
+      "product": { "id": "0032", "name": "냉장 토시살 AP/ESA 86K TOPCH" },
+      "client": { "id": "", "name": "" },
+      "price": 14000,
+      "quantity": 16.15,
+      "box": 21
+    },
+    {
+      "product": { "name": "냉장 토시살 EXCEL 86R CH" },
+      "client": { "id": "", "name": "" },
+      "price": 14000,
+      "quantity": 69.58,
+      "box": 21
+    },
+    {
+      "product": { "id": "T009", "name": "냉장 갈비살 EXCEL 86K CH" },
+      "client": { "id": "", "name": "" },
+      "price": 16000,
+      "quantity": 61.96,
+      "box": 21
+    },
+    {
+      "product": { "id": "0014", "name": "냉장 척아이롤 SWIFT 969G PR" },
+      "client": { "id": "", "name": "" },
+      "price": 13000,
+      "quantity": 51.43,
+      "box": 21
+    },
+    {
+      "product": { "id": "T008", "name": "냉장 부채살 1855 969G TOPCH" },
+      "client": { "id": "", "name": "" },
+      "price": 12500,
+      "quantity": 103.56,
+      "box": 21
+    }
+  ],
+  "client": { "id": "주식회사 선우 프레시", "name": "4" }
+}
